@@ -14,8 +14,8 @@ minify:
 
 params:
   ShowReadingTime: true
-  ShowShareButtons: false
-  comments: false
+  ShowShareButtons: true
+  comments: true
   defaultTheme: auto
   disableThemeToggle : false
   disableSpecial1stPost : false
