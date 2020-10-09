@@ -8,7 +8,7 @@ disableShare = false
 disableshare = false
 hidemeta = false
 showToc = true
-tags = ["Blockchain"]
+tags = []
 title = "Bitcoin – Where it all began"
 weight = ""
 [cover]
