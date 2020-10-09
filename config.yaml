@@ -1,0 +1,53 @@
+baseURL: 'https://angg.com'
+title: Angela Gilhotra
+paginate: 4
+theme: hugo-PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpored: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  ShowReadingTime: true
+  ShowShareButtons: false
+  comments: false
+  defaultTheme: auto
+  disableThemeToggle : false
+  disableSpecial1stPost : false
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Hi there 👋, I'm Angela
+    imageUrl: "https://gateway.pinata.cloud/ipfs/QmPZmnSHPDybkQqg2rCsKtvY42qfp8x92wzkCRKB4sUGH2"
+    # imageUrl: "https://gateway.pinata.cloud/ipfs/QmZHqLjjucWgUVP8ewb7kCTPSyV9VPUBXiXFFS5KR5fruH"
+    imageTitle: me
+    buttons:
+      - name: 'Blog'
+        url: posts
+      - name: 'Blog: Tags'
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: twitter
+      url: 'https://twitter.com/angelagilhotra'
+    - name: github
+      url: 'https://github.com/nglglhtr'
+    - name: telegram
+      url: 'https://t.me/angelagilhotra'
+    - name: email
+      url: 'mailto:angelagilhotra@gmail.com'
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
