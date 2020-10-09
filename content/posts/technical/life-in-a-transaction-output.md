@@ -2,7 +2,7 @@
 TocOpen = false
 aliases = []
 author = "Angela Gilhotra"
-comments = false
+comments = true
 date = 2020-04-14T18:30:00Z
 disableShare = false
 hidemeta = false
