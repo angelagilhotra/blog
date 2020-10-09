@@ -30,7 +30,7 @@ params:
     buttons:
       - name: 'Blog'
         url: posts
-      - name: 'Blog: Tags'
+      - name: 'Categories'
         url: tags
 
   # home-info mode
