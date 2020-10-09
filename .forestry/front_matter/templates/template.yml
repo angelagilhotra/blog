@@ -51,3 +51,4 @@ fields:
   hidden: false
 pages:
 - content/posts/technical/bitcoin-where-it-all-began.md
+- content/posts/technical/life-in-a-transaction-output.md
