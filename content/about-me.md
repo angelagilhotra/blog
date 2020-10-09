@@ -4,7 +4,7 @@ author = "Angela Gilhotra"
 date = 2020-10-08T18:30:00Z
 disableshare = true
 showToc = false
-tags = ["test"]
+tags = []
 title = "About me"
 [cover]
 alt = ""
