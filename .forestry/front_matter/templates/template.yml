@@ -49,3 +49,5 @@ fields:
   name: comments
   label: comments
   hidden: false
+pages:
+- content/posts/technical/bitcoin-where-it-all-began.md
