@@ -12,8 +12,8 @@ title = "Bitcoin – Where it all began"
 weight = ""
 [cover]
 alt = "bitcoin"
-caption = "bitcoin"
-image = "https://unsplash.com/photos/DCCt1CQT8Os"
+caption = "image"
+image = "/uploads/aleksi-raisa-dcct1cqt8os-unsplash.jpg"
 
 +++
 Testing
