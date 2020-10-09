@@ -12,4 +12,6 @@ caption = ""
 image = ""
 
 +++
-heyo
+I like experimenting more than anything! 
+
+Currently working as Special Projects Lead @ [Gitcoin](https://gitcoin.co). Previously I worked as a Blockchain developer at [Matic Network](https://matic.network). 
