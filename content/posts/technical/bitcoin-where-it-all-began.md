@@ -5,9 +5,10 @@ author = "Angela Gilhotra"
 comments = false
 date = 2018-05-15T18:30:00Z
 disableShare = false
+disableshare = false
 hidemeta = false
 showToc = true
-tags = ["Blockchain"]
+tags = []
 title = "Bitcoin – Where it all began"
 weight = ""
 [cover]
