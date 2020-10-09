@@ -2,12 +2,12 @@
 TocOpen = false
 aliases = []
 author = "Angela Gilhotra"
-comments = true
+comments = false
 date = 2018-05-15T18:30:00Z
 disableShare = false
 hidemeta = false
 showToc = true
-tags = ["blockchain"]
+tags = ["Blockchain"]
 title = "Bitcoin – Where it all began"
 weight = ""
 [cover]
