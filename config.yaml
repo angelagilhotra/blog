@@ -32,6 +32,8 @@ params:
         url: posts
       - name: 'Categories'
         url: tags
+      - name: 'About'
+        url: about-me
 
   # home-info mode
   homeInfoParams:
