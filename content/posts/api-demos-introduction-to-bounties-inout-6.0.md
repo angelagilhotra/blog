@@ -3,7 +3,6 @@ TocOpen = false
 author = "Angela Gilhotra"
 date = 2020-10-18T18:30:00Z
 disableshare = true
-draft = true
 showToc = false
 tags = ["Speaking"]
 title = "API demos, introduction to bounties! InOut 6.0"
