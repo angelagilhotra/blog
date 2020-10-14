@@ -9,7 +9,7 @@ title = "Talk: API demos, introduction to Matic's bounties! InOut 6.0"
 [cover]
 alt = ""
 caption = ""
-image = "https://gateway.pinata.cloud/ipfs/QmPb8VSD2MqQuDv4S39w9LLYZ9hYQbPivH5yXPAw8M2NKt"
+image = ""
 
 +++
     {{< youtube id="kGUM8XhN9Pk" start="765" >}}
