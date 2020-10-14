@@ -12,4 +12,5 @@ caption = ""
 image = "https://gateway.pinata.cloud/ipfs/QmPb8VSD2MqQuDv4S39w9LLYZ9hYQbPivH5yXPAw8M2NKt"
 
 +++
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kGUM8XhN9Pk?start=765" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    {{< youtube kGUM8XhN9Pk?start=765 >}}
