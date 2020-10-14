@@ -41,5 +41,12 @@ fields:
 pages:
 - content/about-me.md
 - content/posts/api-demos-introduction-to-bounties-inout-6.0.md
+- content/posts/talk-ama-on-building-out-applications-on-ethereum-matic.md
+- content/posts/talk-building-out-your-first-dapp-on-matic.md
+- content/posts/talk-dapp-101-inblox-meetup.md
+- content/posts/talk-ethonline-building-for-scale-and-ux.md
+- content/posts/talk-how-to-build-a-full-stack-decentralized-app.md
+- content/posts/talk-t-block-matic-product-workshop.md
 - content/posts/technical/bitcoin-where-it-all-began.md
 - content/posts/technical/exporting-ml-datasets.md
+- content/posts/webinar-basics-of-building-your-application-on-matic.md

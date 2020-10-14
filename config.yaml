@@ -1,4 +1,4 @@
-baseURL: 'https://angelagilhotra.netlify.app/'
+baseURL: 'https://angelagilhotra.com'
 title: Angela Gilhotra
 paginate: 4
 theme: hugo-PaperMod
@@ -24,8 +24,8 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hi there 👋, I'm Angela
-    imageUrl: "https://gateway.pinata.cloud/ipfs/QmPZmnSHPDybkQqg2rCsKtvY42qfp8x92wzkCRKB4sUGH2"
-    # imageUrl: "https://gateway.pinata.cloud/ipfs/QmZHqLjjucWgUVP8ewb7kCTPSyV9VPUBXiXFFS5KR5fruH"
+#     imageUrl: "https://gateway.pinata.cloud/ipfs/QmPZmnSHPDybkQqg2rCsKtvY42qfp8x92wzkCRKB4sUGH2"
+    imageUrl: "https://gateway.pinata.cloud/ipfs/QmZHqLjjucWgUVP8ewb7kCTPSyV9VPUBXiXFFS5KR5fruH"
     imageTitle: me
     buttons:
       # - name: 'Archive 📝'
@@ -56,9 +56,11 @@ params:
 
 menu:
   main:
-    - name: Archive
+    - name: archive
       url: /archives/
-      # weight: 5
+      weight: 5
+    - name: posts
+      url: /posts/
 
 taxonomies:
   category: categories
