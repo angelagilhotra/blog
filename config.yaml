@@ -28,9 +28,9 @@ params:
     # imageUrl: "https://gateway.pinata.cloud/ipfs/QmZHqLjjucWgUVP8ewb7kCTPSyV9VPUBXiXFFS5KR5fruH"
     imageTitle: me
     buttons:
-      - name: 'Blog'
-        url: posts
-      - name: 'Categories'
+      # - name: 'Archive 📝'
+      #   url: archives
+      - name: 'Interests'
         url: tags
       - name: 'About'
         url: about-me
@@ -53,3 +53,14 @@ params:
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
+
+menu:
+  main:
+    - name: Archive
+      url: /archives/
+      # weight: 5
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
