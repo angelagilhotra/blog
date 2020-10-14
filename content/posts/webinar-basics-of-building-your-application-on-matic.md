@@ -5,7 +5,7 @@ date = 2020-06-30T18:31:00Z
 disableshare = false
 showToc = false
 tags = ["Speaking"]
-title = "Webinar: Basics of building your application on Matic"
+title = "Webinar: [VIT Uni.] Basics of building your application on Matic"
 [cover]
 alt = ""
 caption = ""
