@@ -5,7 +5,7 @@ date = 2019-10-18T18:30:00Z
 disableshare = false
 showToc = false
 tags = ["Speaking"]
-title = "Talk: API demos, introduction to Matic's bounties! InOut 6.0"
+title = "Talk: [InOut 6.0] API demos, introduction to Matic's bounties!"
 [cover]
 alt = ""
 caption = ""
