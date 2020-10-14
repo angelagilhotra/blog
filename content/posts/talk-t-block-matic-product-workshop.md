@@ -12,4 +12,6 @@ caption = ""
 image = ""
 
 +++
+Organised by the T-Block Accelerator Program: An initiative by the Telangana Government, Tech Mahindra, in partnership with IBC Media 👩🏻‍💻
+
 {{< tweet 1274314519477510144 >}}
