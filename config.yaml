@@ -56,9 +56,11 @@ params:
 
 menu:
   main:
-    - name: Archive
+    - name: archive
       url: /archives/
-      # weight: 5
+      weight: 5
+    - name: posts
+      url: /posts/
 
 taxonomies:
   category: categories
