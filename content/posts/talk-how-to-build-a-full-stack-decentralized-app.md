@@ -4,7 +4,7 @@ author = "Angela Gilhotra"
 date = 2020-04-07T18:31:00Z
 disableshare = false
 showToc = false
-tags = []
+tags = ["Speaking"]
 title = "Talk: How to build a full stack decentralized app"
 [cover]
 alt = ""
