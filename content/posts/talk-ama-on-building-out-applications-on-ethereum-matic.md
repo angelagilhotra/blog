@@ -3,7 +3,6 @@ TocOpen = false
 author = "Angela Gilhotra"
 date = 2020-06-18T18:31:00Z
 disableshare = false
-draft = true
 showToc = false
 tags = ["Speaking"]
 title = "Talk: AMA on building out applications on Ethereum & Matic"
