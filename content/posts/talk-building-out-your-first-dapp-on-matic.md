@@ -12,4 +12,6 @@ caption = ""
 image = ""
 
 +++
+Organised by Aicumen Technologies. The talk was a dev-focussed walkthrough of an introduction to Ethereum and development toolings to building a dApp 👼🏼
+
 {{< youtube Z3TWjkZ77_8 >}}
