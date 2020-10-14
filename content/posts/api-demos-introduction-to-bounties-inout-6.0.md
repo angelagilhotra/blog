@@ -12,4 +12,4 @@ caption = ""
 image = ""
 
 +++
-{{< youtube id="kGUM8XhN9Pk" t="765" >}}
+{{< youtube id="kGUM8XhN9Pk" yt_start="765" >}}
