@@ -5,7 +5,7 @@ date = 2020-03-07T16:33:19Z
 disableshare = false
 showToc = false
 tags = ["Speaking"]
-title = "Talk: dApp 101, InBlox Meetup"
+title = "Talk: [InBlox meetup] dApp 101"
 [cover]
 alt = ""
 caption = ""
