@@ -12,5 +12,4 @@ caption = ""
 image = "https://gateway.pinata.cloud/ipfs/QmPb8VSD2MqQuDv4S39w9LLYZ9hYQbPivH5yXPAw8M2NKt"
 
 +++
-
-    {{< youtube kGUM8XhN9Pk?start=765 >}}
+    {{< youtube id="kGUM8XhN9Pk" start="765" >}}
