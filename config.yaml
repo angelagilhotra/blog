@@ -57,8 +57,6 @@ menu:
       url: /posts/
     - name: archive
       url: /archives/
-    - name: tags
-      url: /tags/
 
 taxonomies:
   category: categories
