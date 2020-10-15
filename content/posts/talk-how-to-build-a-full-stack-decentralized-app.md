@@ -6,7 +6,7 @@ date = 2020-04-07T18:31:00Z
 disableshare = false
 showToc = false
 tags = ["Speaking"]
-tags_weight = 9999
+tags_weight = 99
 title = "Talk: [Matic MasterClass] How to build a full stack decentralized app"
 [cover]
 alt = ""
