@@ -28,7 +28,7 @@ params:
     imageTitle: me
     buttons:
       - name: 'Interests'
-        url: categories
+        url: tags
       - name: 'About'
         url: about-me
 
@@ -53,9 +53,10 @@ params:
 
 menu:
   main:
+    - name: posts
+      url: /posts/
     - name: archive
       url: /archives/
-      weight: 5
     - name: tags
       url: /tags/
 
