@@ -28,6 +28,16 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: tags_weight
+  type: number
+  label: tags_weight
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - type: text
   name: author
   label: author
