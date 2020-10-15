@@ -1,6 +1,6 @@
 baseURL: 'https://angelagilhotra.com'
 title: Angela Gilhotra
-# paginate: 4
+paginate: 999
 theme: hugo-PaperMod
 
 enableRobotsTXT: true
