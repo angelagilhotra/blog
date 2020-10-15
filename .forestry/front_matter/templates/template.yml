@@ -67,6 +67,7 @@ fields:
   default: true
 pages:
 - content/about-me.md
+- content/posts/1.md
 - content/posts/api-demos-introduction-to-bounties-inout-6.0.md
 - content/posts/talk-ama-on-building-out-applications-on-ethereum-matic.md
 - content/posts/talk-building-out-your-first-dapp-on-matic.md
