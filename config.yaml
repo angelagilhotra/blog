@@ -24,14 +24,11 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hi there 👋, I'm Angela
-#     imageUrl: "https://gateway.pinata.cloud/ipfs/QmPZmnSHPDybkQqg2rCsKtvY42qfp8x92wzkCRKB4sUGH2"
     imageUrl: "https://gateway.pinata.cloud/ipfs/QmZHqLjjucWgUVP8ewb7kCTPSyV9VPUBXiXFFS5KR5fruH"
     imageTitle: me
     buttons:
-      # - name: 'Archive 📝'
-      #   url: archives
       - name: 'Interests'
-        url: tags
+        url: categories
       - name: 'About'
         url: about-me
 
@@ -59,10 +56,7 @@ menu:
     - name: archive
       url: /archives/
       weight: 5
-    - name: posts
-      url: /posts/
 
 taxonomies:
   category: categories
   tag: tags
-  series: series
