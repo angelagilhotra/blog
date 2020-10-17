@@ -2,7 +2,7 @@
 TocOpen = false
 author = "Angela Gilhotra"
 categories = ""
-date = ""
+date = 2020-10-10T18:31:00Z
 disableshare = true
 showToc = false
 tags = ["Calligraphy"]
