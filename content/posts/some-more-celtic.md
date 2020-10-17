@@ -4,7 +4,6 @@ author = "Angela Gilhotra"
 categories = ""
 date = ""
 disableshare = true
-draft = true
 showToc = false
 tags = []
 title = "some more celtic!"
