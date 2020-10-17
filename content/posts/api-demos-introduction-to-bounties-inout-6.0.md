@@ -14,4 +14,8 @@ image = ""
 +++
 The talk was about an introduction to Matic Network for the hackers present at InOut6.0 hackathon organised by Devfolio on Oct 19, 2019.
 
-{{< youtube id="kGUM8XhN9Pk" >}}
+{{< rawhtml >}}
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kGUM8XhN9Pk?start=763" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}
+
+<!-- {{< youtube id="kGUM8XhN9Pk" >}} -->
