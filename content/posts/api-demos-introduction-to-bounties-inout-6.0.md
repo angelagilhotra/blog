@@ -18,6 +18,6 @@ The talk was about an introduction to Matic Network for the hackers present at I
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden>
     <iframe src="https://www.youtube-nocookie.com/embed/kGUM8XhN9Pk?start=763" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-{{< /rawhtml >}
+{{< /rawhtml >}}
 
 <!-- {{< youtube id="kGUM8XhN9Pk" >}} -->
