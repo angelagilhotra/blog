@@ -6,7 +6,7 @@ date = 2020-10-10T18:31:00Z
 disableshare = true
 showToc = false
 tags = ["Calligraphy"]
-title = "some more celtic!"
+title = "some more celtic"
 [cover]
 alt = ""
 caption = ""
