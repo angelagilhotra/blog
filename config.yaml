@@ -27,7 +27,7 @@ params:
     imageUrl: "https://gateway.pinata.cloud/ipfs/QmZHqLjjucWgUVP8ewb7kCTPSyV9VPUBXiXFFS5KR5fruH"
     imageTitle: me
     buttons:
-      - name: 'Interests'
+      - name: "What I'm upto"
         url: tags
       - name: 'About'
         url: about-me
