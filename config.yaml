@@ -53,10 +53,12 @@ params:
 
 menu:
   main:
-    - name: posts
+    - name: all posts
       url: /posts/
     - name: archive
       url: /archives/
+    - name: 🧘‍♂️
+      url: /music
 
 taxonomies:
   category: categories
