@@ -42,8 +42,8 @@ params:
       url: 'https://twitter.com/angelagilhotra'
     - name: github
       url: 'https://github.com/nglglhtr'
-    - name: telegram
-      url: 'https://t.me/angelagilhotra'
+#     - name: telegram
+#       url: 'https://t.me/angelagilhotra'
     - name: email
       url: 'mailto:angelagilhotra@gmail.com'
 
