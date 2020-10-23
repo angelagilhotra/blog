@@ -50,5 +50,6 @@ fields:
   default: true
 pages:
 - content/about-me.md
+- content/posts/Sketching/person.md
 - content/posts/technical/bitcoin-where-it-all-began.md
 - content/posts/technical/exporting-ml-datasets.md
