@@ -10,6 +10,6 @@ title = ""
 [cover]
 alt = ""
 caption = ""
-image = ""
+image = "/uploads/img_20171019_235244_827.jpg"
 
 +++
