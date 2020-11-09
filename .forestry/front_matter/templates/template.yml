@@ -50,7 +50,6 @@ fields:
   default: true
 pages:
 - content/about-me.md
-- content/posts/Calligraphy/poem.md
 - content/posts/Sketching/swan.md
 - content/posts/Sketching/tried-vector-portrait-on-adobe-fresco.md
 - content/posts/technical/bitcoin-where-it-all-began.md
