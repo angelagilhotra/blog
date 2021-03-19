@@ -50,6 +50,7 @@ fields:
   default: true
 pages:
 - content/about-me.md
+- content/hello-world.md
 - content/posts/Sketching/swan.md
 - content/posts/Sketching/tried-vector-portrait-on-adobe-fresco.md
 - content/posts/Talks/panel-discussion-ethdenver.md
