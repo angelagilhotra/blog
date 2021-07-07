@@ -4,6 +4,7 @@ author = "Angela Gilhotra"
 categories = ""
 date = 2020-10-17T18:32:00Z
 disableshare = true
+draft = true
 showToc = false
 tags = ["Sketching"]
 title = "Tried out adobe fresco today :D"
