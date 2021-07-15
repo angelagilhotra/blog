@@ -7,6 +7,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpored: false
+enableGitInfo: true
 
 minify:
   disableXML: true
@@ -42,8 +43,6 @@ params:
       url: 'https://twitter.com/angelagilhotra'
     - name: github
       url: 'https://github.com/nglglhtr'
-    - name: telegram
-      url: 'https://t.me/angelagilhotra'
     - name: email
       url: 'mailto:angelagilhotra@gmail.com'
 
@@ -53,8 +52,6 @@ params:
 
 menu:
   main:
-    - name: all posts
-      url: /posts/
     - name: archive
       url: /archives/
     - name: 🧘‍♂️
