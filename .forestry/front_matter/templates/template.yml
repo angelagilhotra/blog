@@ -8,23 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: categories
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - Speaking
-    - Blockchain
-    - Musing
-    - Calligraphy
-    - Machine Learning
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Categories
 - type: list
   name: tags
   label: tags
@@ -67,5 +50,12 @@ fields:
   default: true
 pages:
 - content/about-me.md
+- content/hello-world.md
+- content/posts/Sketching/swan.md
+- content/posts/Sketching/tried-vector-portrait-on-adobe-fresco.md
+- content/posts/Talks/panel-discussion-ethdenver.md
+- content/posts/Talks/podcast-crypto-native-learning-building-and-generative-ever-evolving-nfts.md
+- content/posts/Talks/talk-kernel-block-2-patterns-of-web3.md
 - content/posts/technical/bitcoin-where-it-all-began.md
 - content/posts/technical/exporting-ml-datasets.md
+- content/talks-docs/hello-hello.md

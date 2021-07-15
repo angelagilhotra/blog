@@ -48,7 +48,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "UA-180956408-1"
+      SiteVerificationTag: "GTM-KFVMJGP"
 
 menu:
   main:
