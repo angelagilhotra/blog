@@ -25,7 +25,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hi there 👋, I'm Angela
-    imageUrl: "https://gateway.pinata.cloud/ipfs/QmY9U12xM7eGmyChii6B4UAEpkDpJwfX24zaMhhfMTUtJN"
+    imageUrl: "https://pbs.twimg.com/profile_images/1429689697954013188/IOsAO4vC_400x400.jpg"
     imageTitle: me
     buttons:
       - name: "What I'm upto"
