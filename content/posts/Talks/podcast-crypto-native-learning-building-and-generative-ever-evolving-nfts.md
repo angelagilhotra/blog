@@ -5,7 +5,7 @@ date = 2021-07-06T18:30:00Z
 disableshare = true
 showToc = false
 tags = ["Speaking"]
-title = "Podcast: [Crypto Native] Learning, Building and Generative ever-evolving NFTs"
+title = "Podcast: [Crypto Native] Learning, Building and Generating ever-evolving NFTs"
 [cover]
 alt = ""
 caption = ""
