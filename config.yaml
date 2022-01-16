@@ -25,7 +25,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hi there 👋, I'm Angela
-    imageUrl: "https://gateway.pinata.cloud/ipfs/QmY9U12xM7eGmyChii6B4UAEpkDpJwfX24zaMhhfMTUtJN"
+    imageUrl: "https://gateway.pinata.cloud/ipfs/QmdwChWBnMeoUFgfN1xHyuZdYhg41ioLpH3LnMa7qAjGp1"
     imageTitle: me
     buttons:
       - name: "What I'm upto"
