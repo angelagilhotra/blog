@@ -1,4 +1,4 @@
-baseURL: 'https://angelagilhotra.com'
+baseURL: 'https://angg.me'
 title: Angela Gilhotra
 paginate: 999
 theme: hugo-PaperMod
@@ -44,7 +44,7 @@ params:
     - name: github
       url: 'https://github.com/nglglhtr'
     - name: email
-      url: 'mailto:angelagilhotra@gmail.com'
+      url: 'mailto:angelagilhotra+blog@gmail.com'
 
   analytics:
     google:
