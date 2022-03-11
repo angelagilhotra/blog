@@ -25,7 +25,6 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hi there 👋, I'm Angela
-    # imageUrl: "https://gateway.pinata.cloud/ipfs/QmeMmGoDc6ZYZpXSUw2c5kfUudv22RM56e2EBytZRYVkd2"
     imageTitle: me
     buttons:
       - name: "What I'm upto"
@@ -43,8 +42,6 @@ params:
       url: 'https://twitter.com/angelagilhotra'
     - name: github
       url: 'https://github.com/angelagilhotra'
-    - name: email
-      url: 'mailto:angelagilhotra+blog@gmail.com'
 
   analytics:
     google:
