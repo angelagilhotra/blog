@@ -1,7 +1,7 @@
 +++
 TocOpen = true
 aliases = []
-author = "Angela Gilhotra"
+author = "Angela"
 comments = false
 date = 2018-05-15T18:30:00Z
 disableShare = false
