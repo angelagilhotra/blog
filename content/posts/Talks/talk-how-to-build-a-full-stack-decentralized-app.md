@@ -1,6 +1,6 @@
 +++
 TocOpen = false
-author = "Angela Gilhotra"
+author = "Angela"
 categories = "Speaking"
 date = 2020-04-07T18:31:00Z
 disableshare = false
