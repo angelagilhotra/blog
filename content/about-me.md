@@ -1,6 +1,6 @@
 +++
 TocOpen = false
-author = "Angela Gilhotra"
+author = "Angela"
 date = 2020-10-08T18:30:00Z
 disableshare = true
 showToc = false

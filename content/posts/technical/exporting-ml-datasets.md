@@ -1,6 +1,6 @@
 +++
 TocOpen = true
-author = "Angela Gilhotra"
+author = "Angela"
 date = 2020-09-01T18:30:00Z
 disableshare = false
 showToc = true
@@ -12,7 +12,6 @@ caption = ""
 image = ""
 
 +++
-
 ## Save and Load: TF2
 <small>(imagine selling your super awesome models in a marketplace!)</small>
 
@@ -103,4 +102,3 @@ predictions = model.predict(_data)
 ## 🔖 References
 - [TF2 docs](https://www.tensorflow.org/tutorials/keras/save_and_load)
 - [Save and Load an NN model](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
-
