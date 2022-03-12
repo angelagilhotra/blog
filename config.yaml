@@ -1,5 +1,5 @@
 baseURL: 'https://angg.me'
-title: Angela Gilhotra
+title: Angela
 paginate: 999
 theme: hugo-PaperMod
 
@@ -39,7 +39,7 @@ params:
 
   socialIcons:
     - name: twitter
-      url: 'https://twitter.com/angelagilhotra'
+      url: 'https://twitter.com/anggxyz'
     - name: github
       url: 'https://github.com/angelagilhotra'
 
