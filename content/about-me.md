@@ -14,7 +14,7 @@ image = ""
 +++
 I like experimenting more than anything!
 
-Crafting my way through the interwebs of Ethereum and Communities; exploring infrastructure, tooling and relations. Currently dividing my time in engineering engagement with [Kernel](https://kernel.community/en/) and tooling for creator economies at [Bonfire](https://trybonfire.xyz).
+Crafting my way through the interwebs of Ethereum and Communities; exploring infrastructure, tooling and relations. Currently working as web3/full stack developer at [Bonfire](https://trybonfire.xyz) and [Kernel](https://kernel.community/en/).
 
 Previously I have worked as a Special Projects Lead at [Gitcoin](https://gitcoin.co) and Blockchain Platform Engineer and a Dev Advocate at [Polygon (previously Matic)](https://polygon.technology/).
 
