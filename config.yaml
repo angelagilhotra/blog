@@ -50,6 +50,8 @@ params:
 
 menu:
   main:
+    - name: reading
+      url: /reading-list/
     - name: archive
       url: /archives/
     - name: 🧘‍♂️
