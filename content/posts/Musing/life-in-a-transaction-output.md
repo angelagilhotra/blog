@@ -1,21 +1,27 @@
-+++
+---
+tags:
+  - Musing
+---
+
+\+++
 TocOpen = false
-aliases = []
+aliases = \[]
 author = "Angela"
 comments = false
 date = 2020-04-14T18:30:00Z
 disableShare = true
 hidemeta = false
 showToc = false
-tags = ["Musing"]
+tags = \["Musing"]
 title = "Life in a Transaction Output"
 weight = ""
-[cover]
+\[cover]
 alt = ""
 caption = ""
 image = ""
 
-+++
+\+++
+
 > Going deeper into the Ledger
 
 We live our lives chained to our thoughts, chained to the actions we have made uptil this very moment, where we stand. All these actions taken by each one of us form the current state of all the unspent transactions output. A single transaction generates multiple outputs to the current state of UTXOs. Each action is an amalgamation, a motivation, dovetailing from all the previous actions either received or given out. The input of the next transaction between two humans is the output of all the previous transactions ever happened.
