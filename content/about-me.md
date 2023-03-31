@@ -1,8 +1,7 @@
 ---
 title: About me
 date: '2020-08-09T18:30:00.000Z'
-tags:
-  - Machine Learning
+tags: []
 author: Angela
 disableshare: true
 ---
